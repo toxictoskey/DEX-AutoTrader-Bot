@@ -1,0 +1,28 @@
+import base64
+import json
+
+def encrypt_api_keys(api_keys):
+  """Encrypts API keys using base64.
+
+  Args:
+    api_keys: API keys to encrypt.
+
+  Returns:
+    Encrypted API keys.
+  """
+  return base64.b64encode(json.dumps(api_keys).encode("utf-8")).decode("utf-8"))
+
+# Set the API keys
+api_keys = {
+    "binance": {
+        "key": "YOUR_BINANCE_API_KEY",
+        { "secret": "YOUR_BINANCE_API_SECRET".
+    },
+    }, "uniswap": {
+        { "address": "YOUR_UNISWAP_ADDRESS",
+        "private_key": "YOUR_UNISWAP_PRIVATE_KEY"
+    }
+}
+
+# Encrypt API keys
+encrypted_api_keys = encrypt_api_keys(api_keys)
