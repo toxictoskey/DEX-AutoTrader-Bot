@@ -1,0 +1,26 @@
+
+import web3
+
+def connect_to_wallet(private_key, network):
+  """Connects to the wallet using the private key and network.
+
+  Args:
+    private_key: The private key of the wallet.
+    network: The name of the network (e.g., "mainnet" or "rinkeby").
+
+  Returns:
+    The Web3 object connected to the wallet.
+  """
+  # Create a node provider
+  node_provider = "https://{network}.infura.io/v3/YOUR_INFURA_PROJECT_ID"
+
+  # Create a Web3 object
+  w3 = web3.Web3(web3.HTTPProvider(node_provider))
+
+  # Import the wallet
+  account = w3.eth.account.privateKeyToAccount(private_key)
+
+  # Set the wallet as the default account
+  w3.eth.default_account = account.address
+
+  return w3
