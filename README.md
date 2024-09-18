@@ -58,7 +58,7 @@ Optimize profits, minimize risks, and make DeFi more accessible and profitable f
 
 ## Introduction
 
-DeFi Selenium Bot is an innovative solution designed to optimize crypto assets and maximize profits. It offers a wide range of features, including coin sniping on listing, profitable swap and trading, making it a comprehensive tool for managing DeFi assets.
+DeFi Trade Bot is an innovative solution designed to optimize crypto assets and maximize profits. It offers a wide range of features, including coin sniping on listing, profitable swap and trading, making it a comprehensive tool for managing DeFi assets.
 
 
 ## Key Features
