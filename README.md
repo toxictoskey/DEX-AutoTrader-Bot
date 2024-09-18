@@ -40,7 +40,7 @@ MAC OS: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/d
 Contact me on Discord: ```taaafeth```
 All Contact, which is linked at the very bottom of the repository.
 
-# DeFi Selenium Trade Bot Whitepaper
+# DeFi Trade Bot Whitepaper
 ## Features
 - 🦾 Snipe new tokens at listing
 - 🚀 Realtime super-fast websocket trading.
